@@ -1,1 +1,2 @@
 # newyorktaxi
+# Since 1971, the Taxi and Limousine Commission (TLC) has regulated New York City's iconic taxis, collecting comprehensive datasets from both yellow and green cabs. Yellow taxis, distinguished by their medallions, are a citywide fixture. In contrast, green taxis, rolled out in 2013, primarily cater to specific borough zones. The aim of this project is to use Spark's capabilities to analyze these datasets, culminating in the development of a predictive machine learning model.
